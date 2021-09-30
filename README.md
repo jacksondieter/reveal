@@ -17,4 +17,6 @@ The project is split into two parts:
 
 ### Run containers
 
-From project root, type `docker-compose up` to build the app with the Compose file, and run it.
+- From project root, type `docker-compose up` to build the app with the Compose file, and run it.
+
+- Open your localhost [https://localhost/](https://localhost/) in your browser
